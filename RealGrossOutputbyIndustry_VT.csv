@@ -1,0 +1,918 @@
+Industry,Industry Description,Year,GDP (Millions Chained 2009)
+65,"Administrative and waste management services",2005,472
+65,"Administrative and waste management services",2006,465
+65,"Administrative and waste management services",2007,495
+65,"Administrative and waste management services",2008,519
+65,"Administrative and waste management services",2009,514
+65,"Administrative and waste management services",2010,532
+65,"Administrative and waste management services",2011,573
+65,"Administrative and waste management services",2012,624
+65,"Administrative and waste management services",2013,664
+65,"Administrative and waste management services",2014,700
+65,"Administrative and waste management services",2015,703
+32,"Chemical products manufacturing",2005,128
+32,"Chemical products manufacturing",2006,114
+32,"Chemical products manufacturing",2007,105
+32,"Chemical products manufacturing",2008,104
+32,"Chemical products manufacturing",2009,84
+32,"Chemical products manufacturing",2010,79
+32,"Chemical products manufacturing",2011,83
+32,"Chemical products manufacturing",2012,110
+32,"Chemical products manufacturing",2013,115
+32,"Chemical products manufacturing",2014,116
+53,"Securities, commodity contracts, and investments",2005,146
+53,"Securities, commodity contracts, and investments",2006,159
+53,"Securities, commodity contracts, and investments",2007,139
+53,"Securities, commodity contracts, and investments",2008,97
+53,"Securities, commodity contracts, and investments",2009,138
+53,"Securities, commodity contracts, and investments",2010,124
+53,"Securities, commodity contracts, and investments",2011,114
+53,"Securities, commodity contracts, and investments",2012,139
+53,"Securities, commodity contracts, and investments",2013,120
+53,"Securities, commodity contracts, and investments",2014,122
+22,"Other transportation equipment manufacturing",2005,123
+22,"Other transportation equipment manufacturing",2006,117
+22,"Other transportation equipment manufacturing",2007,125
+22,"Other transportation equipment manufacturing",2008,127
+22,"Other transportation equipment manufacturing",2009,112
+22,"Other transportation equipment manufacturing",2010,137
+22,"Other transportation equipment manufacturing",2011,117
+22,"Other transportation equipment manufacturing",2012,99
+22,"Other transportation equipment manufacturing",2013,110
+22,"Other transportation equipment manufacturing",2014,106
+18,"Machinery manufacturing",2005,202
+18,"Machinery manufacturing",2006,225
+18,"Machinery manufacturing",2007,220
+18,"Machinery manufacturing",2008,216
+18,"Machinery manufacturing",2009,194
+18,"Machinery manufacturing",2010,238
+18,"Machinery manufacturing",2011,244
+18,"Machinery manufacturing",2012,233
+18,"Machinery manufacturing",2013,236
+18,"Machinery manufacturing",2014,240
+87,"Trade",2005,3585
+87,"Trade",2006,3503
+87,"Trade",2007,3418
+87,"Trade",2008,3383
+87,"Trade",2009,3190
+87,"Trade",2010,3309
+87,"Trade",2011,3352
+87,"Trade",2012,3334
+87,"Trade",2013,3416
+87,"Trade",2014,3411
+87,"Trade",2015,3509
+25,"Nondurable goods manufacturing",2005,824
+25,"Nondurable goods manufacturing",2006,953
+25,"Nondurable goods manufacturing",2007,982
+25,"Nondurable goods manufacturing",2008,963
+25,"Nondurable goods manufacturing",2009,792
+25,"Nondurable goods manufacturing",2010,822
+25,"Nondurable goods manufacturing",2011,855
+25,"Nondurable goods manufacturing",2012,779
+25,"Nondurable goods manufacturing",2013,779
+25,"Nondurable goods manufacturing",2014,834
+25,"Nondurable goods manufacturing",2015,834
+39,"Water transportation",2005,7
+39,"Water transportation",2006,10
+39,"Water transportation",2007,12
+39,"Water transportation",2008,13
+39,"Water transportation",2009,18
+39,"Water transportation",2010,17
+39,"Water transportation",2011,18
+39,"Water transportation",2012,16
+39,"Water transportation",2013,19
+39,"Water transportation",2014,17
+46,"Publishing industries, except Internet (includes software)",2005,278
+46,"Publishing industries, except Internet (includes software)",2006,234
+46,"Publishing industries, except Internet (includes software)",2007,267
+46,"Publishing industries, except Internet (includes software)",2008,252
+46,"Publishing industries, except Internet (includes software)",2009,233
+46,"Publishing industries, except Internet (includes software)",2010,238
+46,"Publishing industries, except Internet (includes software)",2011,245
+46,"Publishing industries, except Internet (includes software)",2012,242
+46,"Publishing industries, except Internet (includes software)",2013,270
+46,"Publishing industries, except Internet (includes software)",2014,306
+24,"Miscellaneous manufacturing",2005,191
+24,"Miscellaneous manufacturing",2006,227
+24,"Miscellaneous manufacturing",2007,252
+24,"Miscellaneous manufacturing",2008,207
+24,"Miscellaneous manufacturing",2009,219
+24,"Miscellaneous manufacturing",2010,234
+24,"Miscellaneous manufacturing",2011,179
+24,"Miscellaneous manufacturing",2012,115
+24,"Miscellaneous manufacturing",2013,117
+24,"Miscellaneous manufacturing",2014,140
+3,"Agriculture, forestry, fishing, and hunting",2005,373
+3,"Agriculture, forestry, fishing, and hunting",2006,324
+3,"Agriculture, forestry, fishing, and hunting",2007,327
+3,"Agriculture, forestry, fishing, and hunting",2008,289
+3,"Agriculture, forestry, fishing, and hunting",2009,237
+3,"Agriculture, forestry, fishing, and hunting",2010,307
+3,"Agriculture, forestry, fishing, and hunting",2011,313
+3,"Agriculture, forestry, fishing, and hunting",2012,256
+3,"Agriculture, forestry, fishing, and hunting",2013,305
+3,"Agriculture, forestry, fishing, and hunting",2014,381
+3,"Agriculture, forestry, fishing, and hunting",2015,379
+13,"Durable goods manufacturing",2005,2023
+13,"Durable goods manufacturing",2006,2228
+13,"Durable goods manufacturing",2007,1989
+13,"Durable goods manufacturing",2008,2123
+13,"Durable goods manufacturing",2009,1851
+13,"Durable goods manufacturing",2010,2289
+13,"Durable goods manufacturing",2011,2352
+13,"Durable goods manufacturing",2012,2309
+13,"Durable goods manufacturing",2013,1902
+13,"Durable goods manufacturing",2014,1781
+13,"Durable goods manufacturing",2015,1707
+64,"Management of companies and enterprises",2005,41
+64,"Management of companies and enterprises",2006,24
+64,"Management of companies and enterprises",2007,20
+64,"Management of companies and enterprises",2008,91
+64,"Management of companies and enterprises",2009,89
+64,"Management of companies and enterprises",2010,104
+64,"Management of companies and enterprises",2011,161
+64,"Management of companies and enterprises",2012,218
+64,"Management of companies and enterprises",2013,226
+64,"Management of companies and enterprises",2014,252
+64,"Management of companies and enterprises",2015,263
+60,"Professional, scientific, and technical services",2005,1505
+60,"Professional, scientific, and technical services",2006,1543
+60,"Professional, scientific, and technical services",2007,1529
+60,"Professional, scientific, and technical services",2008,1609
+60,"Professional, scientific, and technical services",2009,1534
+60,"Professional, scientific, and technical services",2010,1564
+60,"Professional, scientific, and technical services",2011,1599
+60,"Professional, scientific, and technical services",2012,1598
+60,"Professional, scientific, and technical services",2013,1605
+60,"Professional, scientific, and technical services",2014,1590
+60,"Professional, scientific, and technical services",2015,1640
+41,"Transit and ground passenger transportation",2005,64
+41,"Transit and ground passenger transportation",2006,65
+41,"Transit and ground passenger transportation",2007,69
+41,"Transit and ground passenger transportation",2008,68
+41,"Transit and ground passenger transportation",2009,59
+41,"Transit and ground passenger transportation",2010,61
+41,"Transit and ground passenger transportation",2011,61
+41,"Transit and ground passenger transportation",2012,56
+41,"Transit and ground passenger transportation",2013,55
+41,"Transit and ground passenger transportation",2014,54
+77,"Amusements, gambling, and recreation industries",2005,128
+77,"Amusements, gambling, and recreation industries",2006,134
+77,"Amusements, gambling, and recreation industries",2007,134
+77,"Amusements, gambling, and recreation industries",2008,136
+77,"Amusements, gambling, and recreation industries",2009,130
+77,"Amusements, gambling, and recreation industries",2010,142
+77,"Amusements, gambling, and recreation industries",2011,147
+77,"Amusements, gambling, and recreation industries",2012,152
+77,"Amusements, gambling, and recreation industries",2013,161
+77,"Amusements, gambling, and recreation industries",2014,163
+85,"State and local",2005,2920
+85,"State and local",2006,2974
+85,"State and local",2007,2957
+85,"State and local",2008,2935
+85,"State and local",2009,2856
+85,"State and local",2010,2829
+85,"State and local",2011,2989
+85,"State and local",2012,2942
+85,"State and local",2013,3009
+85,"State and local",2014,3025
+31,"Petroleum and coal products manufacturing",2005,8
+31,"Petroleum and coal products manufacturing",2006,7
+31,"Petroleum and coal products manufacturing",2007,11
+31,"Petroleum and coal products manufacturing",2008,10
+31,"Petroleum and coal products manufacturing",2009,9
+31,"Petroleum and coal products manufacturing",2010,10
+31,"Petroleum and coal products manufacturing",2011,11
+31,"Petroleum and coal products manufacturing",2012,13
+31,"Petroleum and coal products manufacturing",2013,14
+31,"Petroleum and coal products manufacturing",2014,18
+28,"Apparel and leather and allied products manufacturing",2005,17
+28,"Apparel and leather and allied products manufacturing",2006,15
+28,"Apparel and leather and allied products manufacturing",2007,15
+28,"Apparel and leather and allied products manufacturing",2008,19
+28,"Apparel and leather and allied products manufacturing",2009,15
+28,"Apparel and leather and allied products manufacturing",2010,16
+28,"Apparel and leather and allied products manufacturing",2011,20
+28,"Apparel and leather and allied products manufacturing",2012,26
+28,"Apparel and leather and allied products manufacturing",2013,20
+28,"Apparel and leather and allied products manufacturing",2014,25
+30,"Printing and related support activities",2005,112
+30,"Printing and related support activities",2006,88
+30,"Printing and related support activities",2007,89
+30,"Printing and related support activities",2008,86
+30,"Printing and related support activities",2009,66
+30,"Printing and related support activities",2010,60
+30,"Printing and related support activities",2011,64
+30,"Printing and related support activities",2012,71
+30,"Printing and related support activities",2013,72
+30,"Printing and related support activities",2014,69
+56,"Real estate and rental and leasing",2005,3130
+56,"Real estate and rental and leasing",2006,3188
+56,"Real estate and rental and leasing",2007,3421
+56,"Real estate and rental and leasing",2008,3451
+56,"Real estate and rental and leasing",2009,3630
+56,"Real estate and rental and leasing",2010,3874
+56,"Real estate and rental and leasing",2011,4012
+56,"Real estate and rental and leasing",2012,4019
+56,"Real estate and rental and leasing",2013,3951
+56,"Real estate and rental and leasing",2014,3994
+56,"Real estate and rental and leasing",2015,3933
+51,"Finance and insurance",2005,1323
+51,"Finance and insurance",2006,1300
+51,"Finance and insurance",2007,1326
+51,"Finance and insurance",2008,1192
+51,"Finance and insurance",2009,1307
+51,"Finance and insurance",2010,1233
+51,"Finance and insurance",2011,1256
+51,"Finance and insurance",2012,1330
+51,"Finance and insurance",2013,1242
+51,"Finance and insurance",2014,1415
+51,"Finance and insurance",2015,1438
+35,"Retail trade",2005,2217
+35,"Retail trade",2006,2166
+35,"Retail trade",2007,2088
+35,"Retail trade",2008,2072
+35,"Retail trade",2009,1999
+35,"Retail trade",2010,2049
+35,"Retail trade",2011,2055
+35,"Retail trade",2012,2021
+35,"Retail trade",2013,2083
+35,"Retail trade",2014,2091
+35,"Retail trade",2015,2146
+26,"Food and beverage and tobacco products manufacturing",2005,348
+26,"Food and beverage and tobacco products manufacturing",2006,503
+26,"Food and beverage and tobacco products manufacturing",2007,551
+26,"Food and beverage and tobacco products manufacturing",2008,540
+26,"Food and beverage and tobacco products manufacturing",2009,415
+26,"Food and beverage and tobacco products manufacturing",2010,458
+26,"Food and beverage and tobacco products manufacturing",2011,482
+26,"Food and beverage and tobacco products manufacturing",2012,395
+26,"Food and beverage and tobacco products manufacturing",2013,389
+26,"Food and beverage and tobacco products manufacturing",2014,425
+81,"Other services, except government",2005,731
+81,"Other services, except government",2006,708
+81,"Other services, except government",2007,672
+81,"Other services, except government",2008,639
+81,"Other services, except government",2009,600
+81,"Other services, except government",2010,587
+81,"Other services, except government",2011,584
+81,"Other services, except government",2012,615
+81,"Other services, except government",2013,608
+81,"Other services, except government",2014,612
+81,"Other services, except government",2015,622
+57,"Real estate",2005,2925
+57,"Real estate",2006,2956
+57,"Real estate",2007,3184
+57,"Real estate",2008,3227
+57,"Real estate",2009,3429
+57,"Real estate",2010,3681
+57,"Real estate",2011,3829
+57,"Real estate",2012,3834
+57,"Real estate",2013,3766
+57,"Real estate",2014,3808
+67,"Waste management and remediation services",2005,105
+67,"Waste management and remediation services",2006,96
+67,"Waste management and remediation services",2007,105
+67,"Waste management and remediation services",2008,84
+67,"Waste management and remediation services",2009,80
+67,"Waste management and remediation services",2010,94
+67,"Waste management and remediation services",2011,80
+67,"Waste management and remediation services",2012,77
+67,"Waste management and remediation services",2013,82
+67,"Waste management and remediation services",2014,82
+71,"Ambulatory health care services",2005,1106
+71,"Ambulatory health care services",2006,1107
+71,"Ambulatory health care services",2007,1105
+71,"Ambulatory health care services",2008,1155
+71,"Ambulatory health care services",2009,1129
+71,"Ambulatory health care services",2010,1084
+71,"Ambulatory health care services",2011,1139
+71,"Ambulatory health care services",2012,1153
+71,"Ambulatory health care services",2013,1210
+71,"Ambulatory health care services",2014,1205
+88,"Transportation and utilities",2005,1145
+88,"Transportation and utilities",2006,1139
+88,"Transportation and utilities",2007,1152
+88,"Transportation and utilities",2008,1120
+88,"Transportation and utilities",2009,1063
+88,"Transportation and utilities",2010,1161
+88,"Transportation and utilities",2011,1224
+88,"Transportation and utilities",2012,1217
+88,"Transportation and utilities",2013,1193
+88,"Transportation and utilities",2014,1151
+88,"Transportation and utilities",2015,1069
+15,"Nonmetallic mineral products manufacturing",2005,173
+15,"Nonmetallic mineral products manufacturing",2006,148
+15,"Nonmetallic mineral products manufacturing",2007,137
+15,"Nonmetallic mineral products manufacturing",2008,143
+15,"Nonmetallic mineral products manufacturing",2009,114
+15,"Nonmetallic mineral products manufacturing",2010,120
+15,"Nonmetallic mineral products manufacturing",2011,114
+15,"Nonmetallic mineral products manufacturing",2012,122
+15,"Nonmetallic mineral products manufacturing",2013,116
+15,"Nonmetallic mineral products manufacturing",2014,138
+1,"All industry total",2005,25783
+1,"All industry total",2006,25941
+1,"All industry total",2007,25768
+1,"All industry total",2008,25901
+1,"All industry total",2009,25222
+1,"All industry total",2010,26170
+1,"All industry total",2011,26914
+1,"All industry total",2012,26910
+1,"All industry total",2013,26811
+1,"All industry total",2014,27215
+1,"All industry total",2015,27269
+44,"Warehousing and storage",2005,56
+44,"Warehousing and storage",2006,56
+44,"Warehousing and storage",2007,53
+44,"Warehousing and storage",2008,45
+44,"Warehousing and storage",2009,40
+44,"Warehousing and storage",2010,44
+44,"Warehousing and storage",2011,64
+44,"Warehousing and storage",2012,67
+44,"Warehousing and storage",2013,74
+44,"Warehousing and storage",2014,75
+50,"Finance, insurance, real estate, rental, and leasing",2005,4468
+50,"Finance, insurance, real estate, rental, and leasing",2006,4501
+50,"Finance, insurance, real estate, rental, and leasing",2007,4755
+50,"Finance, insurance, real estate, rental, and leasing",2008,4642
+50,"Finance, insurance, real estate, rental, and leasing",2009,4937
+50,"Finance, insurance, real estate, rental, and leasing",2010,5105
+50,"Finance, insurance, real estate, rental, and leasing",2011,5264
+50,"Finance, insurance, real estate, rental, and leasing",2012,5350
+50,"Finance, insurance, real estate, rental, and leasing",2013,5190
+50,"Finance, insurance, real estate, rental, and leasing",2014,5416
+50,"Finance, insurance, real estate, rental, and leasing",2015,5381
+76,"Performing arts, spectator sports, museums, and related activities",2005,94
+76,"Performing arts, spectator sports, museums, and related activities",2006,93
+76,"Performing arts, spectator sports, museums, and related activities",2007,86
+76,"Performing arts, spectator sports, museums, and related activities",2008,83
+76,"Performing arts, spectator sports, museums, and related activities",2009,84
+76,"Performing arts, spectator sports, museums, and related activities",2010,85
+76,"Performing arts, spectator sports, museums, and related activities",2011,84
+76,"Performing arts, spectator sports, museums, and related activities",2012,87
+76,"Performing arts, spectator sports, museums, and related activities",2013,94
+76,"Performing arts, spectator sports, museums, and related activities",2014,96
+69,"Educational services",2005,584
+69,"Educational services",2006,593
+69,"Educational services",2007,589
+69,"Educational services",2008,605
+69,"Educational services",2009,615
+69,"Educational services",2010,586
+69,"Educational services",2011,582
+69,"Educational services",2012,579
+69,"Educational services",2013,569
+69,"Educational services",2014,586
+69,"Educational services",2015,577
+45,"Information",2005,733
+45,"Information",2006,698
+45,"Information",2007,749
+45,"Information",2008,785
+45,"Information",2009,761
+45,"Information",2010,760
+45,"Information",2011,752
+45,"Information",2012,692
+45,"Information",2013,754
+45,"Information",2014,785
+45,"Information",2015,847
+21,"Motor vehicles, bodies and trailers, and parts manufacturing",2005,49
+21,"Motor vehicles, bodies and trailers, and parts manufacturing",2006,71
+21,"Motor vehicles, bodies and trailers, and parts manufacturing",2007,71
+21,"Motor vehicles, bodies and trailers, and parts manufacturing",2008,66
+21,"Motor vehicles, bodies and trailers, and parts manufacturing",2009,28
+21,"Motor vehicles, bodies and trailers, and parts manufacturing",2010,35
+21,"Motor vehicles, bodies and trailers, and parts manufacturing",2011,48
+21,"Motor vehicles, bodies and trailers, and parts manufacturing",2012,41
+21,"Motor vehicles, bodies and trailers, and parts manufacturing",2013,44
+21,"Motor vehicles, bodies and trailers, and parts manufacturing",2014,45
+74,"Arts, entertainment, recreation, accommodation, and food services",2005,1471
+74,"Arts, entertainment, recreation, accommodation, and food services",2006,1452
+74,"Arts, entertainment, recreation, accommodation, and food services",2007,1420
+74,"Arts, entertainment, recreation, accommodation, and food services",2008,1374
+74,"Arts, entertainment, recreation, accommodation, and food services",2009,1301
+74,"Arts, entertainment, recreation, accommodation, and food services",2010,1365
+74,"Arts, entertainment, recreation, accommodation, and food services",2011,1423
+74,"Arts, entertainment, recreation, accommodation, and food services",2012,1459
+74,"Arts, entertainment, recreation, accommodation, and food services",2013,1533
+74,"Arts, entertainment, recreation, accommodation, and food services",2014,1554
+74,"Arts, entertainment, recreation, accommodation, and food services",2015,1579
+34,"Wholesale trade",2005,1368
+34,"Wholesale trade",2006,1337
+34,"Wholesale trade",2007,1332
+34,"Wholesale trade",2008,1313
+34,"Wholesale trade",2009,1192
+34,"Wholesale trade",2010,1260
+34,"Wholesale trade",2011,1296
+34,"Wholesale trade",2012,1312
+34,"Wholesale trade",2013,1332
+34,"Wholesale trade",2014,1320
+34,"Wholesale trade",2015,1362
+79,"Accommodation",2005,669
+79,"Accommodation",2006,653
+79,"Accommodation",2007,650
+79,"Accommodation",2008,629
+79,"Accommodation",2009,593
+79,"Accommodation",2010,632
+79,"Accommodation",2011,662
+79,"Accommodation",2012,678
+79,"Accommodation",2013,728
+79,"Accommodation",2014,726
+47,"Motion picture and sound recording industries",2005,22
+47,"Motion picture and sound recording industries",2006,25
+47,"Motion picture and sound recording industries",2007,28
+47,"Motion picture and sound recording industries",2008,29
+47,"Motion picture and sound recording industries",2009,33
+47,"Motion picture and sound recording industries",2010,34
+47,"Motion picture and sound recording industries",2011,30
+47,"Motion picture and sound recording industries",2012,28
+47,"Motion picture and sound recording industries",2013,24
+47,"Motion picture and sound recording industries",2014,24
+58,"Rental and leasing services and lessors of intangible assets",2005,205
+58,"Rental and leasing services and lessors of intangible assets",2006,234
+58,"Rental and leasing services and lessors of intangible assets",2007,238
+58,"Rental and leasing services and lessors of intangible assets",2008,225
+58,"Rental and leasing services and lessors of intangible assets",2009,201
+58,"Rental and leasing services and lessors of intangible assets",2010,193
+58,"Rental and leasing services and lessors of intangible assets",2011,183
+58,"Rental and leasing services and lessors of intangible assets",2012,185
+58,"Rental and leasing services and lessors of intangible assets",2013,185
+58,"Rental and leasing services and lessors of intangible assets",2014,186
+36,"Transportation and warehousing",2005,540
+36,"Transportation and warehousing",2006,541
+36,"Transportation and warehousing",2007,522
+36,"Transportation and warehousing",2008,515
+36,"Transportation and warehousing",2009,480
+36,"Transportation and warehousing",2010,501
+36,"Transportation and warehousing",2011,525
+36,"Transportation and warehousing",2012,504
+36,"Transportation and warehousing",2013,484
+36,"Transportation and warehousing",2014,479
+36,"Transportation and warehousing",2015,438
+70,"Health care and social assistance",2005,2363
+70,"Health care and social assistance",2006,2410
+70,"Health care and social assistance",2007,2458
+70,"Health care and social assistance",2008,2629
+70,"Health care and social assistance",2009,2629
+70,"Health care and social assistance",2010,2600
+70,"Health care and social assistance",2011,2634
+70,"Health care and social assistance",2012,2695
+70,"Health care and social assistance",2013,2775
+70,"Health care and social assistance",2014,2783
+70,"Health care and social assistance",2015,2857
+37,"Air transportation",2005,29
+37,"Air transportation",2006,28
+37,"Air transportation",2007,29
+37,"Air transportation",2008,28
+37,"Air transportation",2009,27
+37,"Air transportation",2010,24
+37,"Air transportation",2011,21
+37,"Air transportation",2012,19
+37,"Air transportation",2013,18
+37,"Air transportation",2014,18
+89,"Private goods-producing industries",2005,4867
+89,"Private goods-producing industries",2006,5058
+89,"Private goods-producing industries",2007,4687
+89,"Private goods-producing industries",2008,4633
+89,"Private goods-producing industries",2009,4149
+89,"Private goods-producing industries",2010,4699
+89,"Private goods-producing industries",2011,4823
+89,"Private goods-producing industries",2012,4629
+89,"Private goods-producing industries",2013,4311
+89,"Private goods-producing industries",2014,4382
+89,"Private goods-producing industries",2015,4267
+55,"Funds, trusts, and other financial vehicles",2005,11
+55,"Funds, trusts, and other financial vehicles",2006,9
+55,"Funds, trusts, and other financial vehicles",2007,21
+55,"Funds, trusts, and other financial vehicles",2008,24
+55,"Funds, trusts, and other financial vehicles",2009,32
+55,"Funds, trusts, and other financial vehicles",2010,33
+55,"Funds, trusts, and other financial vehicles",2011,37
+55,"Funds, trusts, and other financial vehicles",2012,53
+55,"Funds, trusts, and other financial vehicles",2013,38
+55,"Funds, trusts, and other financial vehicles",2014,28
+20,"Electrical equipment, appliance, and components manufacturing",2005,126
+20,"Electrical equipment, appliance, and components manufacturing",2006,185
+20,"Electrical equipment, appliance, and components manufacturing",2007,177
+20,"Electrical equipment, appliance, and components manufacturing",2008,193
+20,"Electrical equipment, appliance, and components manufacturing",2009,157
+20,"Electrical equipment, appliance, and components manufacturing",2010,187
+20,"Electrical equipment, appliance, and components manufacturing",2011,147
+20,"Electrical equipment, appliance, and components manufacturing",2012,137
+20,"Electrical equipment, appliance, and components manufacturing",2013,155
+20,"Electrical equipment, appliance, and components manufacturing",2014,136
+90,"Private services-providing industries",2005,17074
+90,"Private services-providing industries",2006,17012
+90,"Private services-providing industries",2007,17251
+90,"Private services-providing industries",2008,17389
+90,"Private services-providing industries",2009,17232
+90,"Private services-providing industries",2010,17671
+90,"Private services-providing industries",2011,18145
+90,"Private services-providing industries",2012,18376
+90,"Private services-providing industries",2013,18524
+90,"Private services-providing industries",2014,18831
+90,"Private services-providing industries",2015,19029
+27,"Textile mills and textile product mills",2005,8
+27,"Textile mills and textile product mills",2006,7
+27,"Textile mills and textile product mills",2007,6
+27,"Textile mills and textile product mills",2008,9
+27,"Textile mills and textile product mills",2009,8
+27,"Textile mills and textile product mills",2010,7
+27,"Textile mills and textile product mills",2011,6
+27,"Textile mills and textile product mills",2012,8
+27,"Textile mills and textile product mills",2013,9
+27,"Textile mills and textile product mills",2014,11
+84,"Federal military",2005,253
+84,"Federal military",2006,229
+84,"Federal military",2007,211
+84,"Federal military",2008,223
+84,"Federal military",2009,237
+84,"Federal military",2010,230
+84,"Federal military",2011,214
+84,"Federal military",2012,202
+84,"Federal military",2013,194
+84,"Federal military",2014,187
+54,"Insurance carriers and related activities",2005,747
+54,"Insurance carriers and related activities",2006,751
+54,"Insurance carriers and related activities",2007,763
+54,"Insurance carriers and related activities",2008,646
+54,"Insurance carriers and related activities",2009,713
+54,"Insurance carriers and related activities",2010,691
+54,"Insurance carriers and related activities",2011,704
+54,"Insurance carriers and related activities",2012,739
+54,"Insurance carriers and related activities",2013,720
+54,"Insurance carriers and related activities",2014,926
+4,"Farms",2005,293
+4,"Farms",2006,240
+4,"Farms",2007,253
+4,"Farms",2008,219
+4,"Farms",2009,171
+4,"Farms",2010,234
+4,"Farms",2011,243
+4,"Farms",2012,189
+4,"Farms",2013,236
+4,"Farms",2014,304
+23,"Furniture and related products manufacturing",2005,101
+23,"Furniture and related products manufacturing",2006,103
+23,"Furniture and related products manufacturing",2007,94
+23,"Furniture and related products manufacturing",2008,90
+23,"Furniture and related products manufacturing",2009,66
+23,"Furniture and related products manufacturing",2010,69
+23,"Furniture and related products manufacturing",2011,67
+23,"Furniture and related products manufacturing",2012,74
+23,"Furniture and related products manufacturing",2013,68
+23,"Furniture and related products manufacturing",2014,68
+14,"Wood products manufacturing",2005,116
+14,"Wood products manufacturing",2006,110
+14,"Wood products manufacturing",2007,111
+14,"Wood products manufacturing",2008,111
+14,"Wood products manufacturing",2009,83
+14,"Wood products manufacturing",2010,86
+14,"Wood products manufacturing",2011,97
+14,"Wood products manufacturing",2012,130
+14,"Wood products manufacturing",2013,126
+14,"Wood products manufacturing",2014,119
+49,"Data processing, internet publishing, and other information services",2005,95
+49,"Data processing, internet publishing, and other information services",2006,100
+49,"Data processing, internet publishing, and other information services",2007,82
+49,"Data processing, internet publishing, and other information services",2008,95
+49,"Data processing, internet publishing, and other information services",2009,87
+49,"Data processing, internet publishing, and other information services",2010,81
+49,"Data processing, internet publishing, and other information services",2011,66
+49,"Data processing, internet publishing, and other information services",2012,46
+49,"Data processing, internet publishing, and other information services",2013,49
+49,"Data processing, internet publishing, and other information services",2014,49
+29,"Paper products manufacturing",2005,124
+29,"Paper products manufacturing",2006,126
+29,"Paper products manufacturing",2007,112
+29,"Paper products manufacturing",2008,110
+29,"Paper products manufacturing",2009,117
+29,"Paper products manufacturing",2010,106
+29,"Paper products manufacturing",2011,96
+29,"Paper products manufacturing",2012,60
+29,"Paper products manufacturing",2013,61
+29,"Paper products manufacturing",2014,65
+75,"Arts, entertainment, and recreation",2005,222
+75,"Arts, entertainment, and recreation",2006,227
+75,"Arts, entertainment, and recreation",2007,219
+75,"Arts, entertainment, and recreation",2008,219
+75,"Arts, entertainment, and recreation",2009,215
+75,"Arts, entertainment, and recreation",2010,227
+75,"Arts, entertainment, and recreation",2011,231
+75,"Arts, entertainment, and recreation",2012,238
+75,"Arts, entertainment, and recreation",2013,255
+75,"Arts, entertainment, and recreation",2014,259
+75,"Arts, entertainment, and recreation",2015,249
+86,"Natural resources and mining",2005,584
+86,"Natural resources and mining",2006,532
+86,"Natural resources and mining",2007,519
+86,"Natural resources and mining",2008,466
+86,"Natural resources and mining",2009,463
+86,"Natural resources and mining",2010,522
+86,"Natural resources and mining",2011,512
+86,"Natural resources and mining",2012,441
+86,"Natural resources and mining",2013,510
+86,"Natural resources and mining",2014,615
+86,"Natural resources and mining",2015,568
+72,"Hospitals and nursing and residential care facilities",2005,968
+72,"Hospitals and nursing and residential care facilities",2006,1015
+72,"Hospitals and nursing and residential care facilities",2007,1061
+72,"Hospitals and nursing and residential care facilities",2008,1157
+72,"Hospitals and nursing and residential care facilities",2009,1178
+72,"Hospitals and nursing and residential care facilities",2010,1205
+72,"Hospitals and nursing and residential care facilities",2011,1187
+72,"Hospitals and nursing and residential care facilities",2012,1225
+72,"Hospitals and nursing and residential care facilities",2013,1244
+72,"Hospitals and nursing and residential care facilities",2014,1246
+73,"Social assistance",2005,288
+73,"Social assistance",2006,287
+73,"Social assistance",2007,291
+73,"Social assistance",2008,317
+73,"Social assistance",2009,322
+73,"Social assistance",2010,310
+73,"Social assistance",2011,308
+73,"Social assistance",2012,317
+73,"Social assistance",2013,320
+73,"Social assistance",2014,331
+11,"Construction",2005,1445
+11,"Construction",2006,1332
+11,"Construction",2007,1197
+11,"Construction",2008,1087
+11,"Construction",2009,1043
+11,"Construction",2010,1066
+11,"Construction",2011,1111
+11,"Construction",2012,1128
+11,"Construction",2013,1098
+11,"Construction",2014,1097
+11,"Construction",2015,1104
+61,"Legal services",2005,296
+61,"Legal services",2006,276
+61,"Legal services",2007,289
+61,"Legal services",2008,302
+61,"Legal services",2009,285
+61,"Legal services",2010,284
+61,"Legal services",2011,268
+61,"Legal services",2012,248
+61,"Legal services",2013,242
+61,"Legal services",2014,232
+19,"Computer and electronic products manufacturing",2005,718
+19,"Computer and electronic products manufacturing",2006,748
+19,"Computer and electronic products manufacturing",2007,535
+19,"Computer and electronic products manufacturing",2008,707
+19,"Computer and electronic products manufacturing",2009,701
+19,"Computer and electronic products manufacturing",2010,1006
+19,"Computer and electronic products manufacturing",2011,1134
+19,"Computer and electronic products manufacturing",2012,1136
+19,"Computer and electronic products manufacturing",2013,688
+19,"Computer and electronic products manufacturing",2014,521
+17,"Fabricated metal products",2005,151
+17,"Fabricated metal products",2006,266
+17,"Fabricated metal products",2007,281
+17,"Fabricated metal products",2008,259
+17,"Fabricated metal products",2009,165
+17,"Fabricated metal products",2010,165
+17,"Fabricated metal products",2011,195
+17,"Fabricated metal products",2012,212
+17,"Fabricated metal products",2013,212
+17,"Fabricated metal products",2014,224
+10,"Utilities",2005,604
+10,"Utilities",2006,597
+10,"Utilities",2007,631
+10,"Utilities",2008,604
+10,"Utilities",2009,583
+10,"Utilities",2010,661
+10,"Utilities",2011,700
+10,"Utilities",2012,714
+10,"Utilities",2013,711
+10,"Utilities",2014,673
+10,"Utilities",2015,632
+68,"Educational services, health care, and social assistance",2005,2947
+68,"Educational services, health care, and social assistance",2006,3002
+68,"Educational services, health care, and social assistance",2007,3047
+68,"Educational services, health care, and social assistance",2008,3234
+68,"Educational services, health care, and social assistance",2009,3244
+68,"Educational services, health care, and social assistance",2010,3186
+68,"Educational services, health care, and social assistance",2011,3216
+68,"Educational services, health care, and social assistance",2012,3273
+68,"Educational services, health care, and social assistance",2013,3342
+68,"Educational services, health care, and social assistance",2014,3368
+68,"Educational services, health care, and social assistance",2015,3432
+48,"Broadcasting and telecommunications",2005,341
+48,"Broadcasting and telecommunications",2006,340
+48,"Broadcasting and telecommunications",2007,373
+48,"Broadcasting and telecommunications",2008,409
+48,"Broadcasting and telecommunications",2009,409
+48,"Broadcasting and telecommunications",2010,407
+48,"Broadcasting and telecommunications",2011,411
+48,"Broadcasting and telecommunications",2012,376
+48,"Broadcasting and telecommunications",2013,410
+48,"Broadcasting and telecommunications",2014,405
+43,"Other transportation and support activities",2005,129
+43,"Other transportation and support activities",2006,123
+43,"Other transportation and support activities",2007,110
+43,"Other transportation and support activities",2008,120
+43,"Other transportation and support activities",2009,115
+43,"Other transportation and support activities",2010,116
+43,"Other transportation and support activities",2011,116
+43,"Other transportation and support activities",2012,109
+43,"Other transportation and support activities",2013,99
+43,"Other transportation and support activities",2014,102
+2,"Private industries",2005,21940
+2,"Private industries",2006,22074
+2,"Private industries",2007,21938
+2,"Private industries",2008,22021
+2,"Private industries",2009,21382
+2,"Private industries",2010,22368
+2,"Private industries",2011,22966
+2,"Private industries",2012,23004
+2,"Private industries",2013,22833
+2,"Private industries",2014,23211
+2,"Private industries",2015,23294
+38,"Rail transportation",2005,19
+38,"Rail transportation",2006,19
+38,"Rail transportation",2007,19
+38,"Rail transportation",2008,18
+38,"Rail transportation",2009,15
+38,"Rail transportation",2010,14
+38,"Rail transportation",2011,17
+38,"Rail transportation",2012,18
+38,"Rail transportation",2013,17
+38,"Rail transportation",2014,18
+82,"Government",2005,3843
+82,"Government",2006,3866
+82,"Government",2007,3830
+82,"Government",2008,3880
+82,"Government",2009,3840
+82,"Government",2010,3804
+82,"Government",2011,3949
+82,"Government",2012,3908
+82,"Government",2013,3979
+82,"Government",2014,4004
+82,"Government",2015,3977
+83,"Federal civilian",2005,670
+83,"Federal civilian",2006,665
+83,"Federal civilian",2007,664
+83,"Federal civilian",2008,722
+83,"Federal civilian",2009,747
+83,"Federal civilian",2010,745
+83,"Federal civilian",2011,746
+83,"Federal civilian",2012,764
+83,"Federal civilian",2013,776
+83,"Federal civilian",2014,792
+52,"Federal Reserve banks, credit intermediation, and related services",2005,428
+52,"Federal Reserve banks, credit intermediation, and related services",2006,396
+52,"Federal Reserve banks, credit intermediation, and related services",2007,413
+52,"Federal Reserve banks, credit intermediation, and related services",2008,424
+52,"Federal Reserve banks, credit intermediation, and related services",2009,423
+52,"Federal Reserve banks, credit intermediation, and related services",2010,385
+52,"Federal Reserve banks, credit intermediation, and related services",2011,401
+52,"Federal Reserve banks, credit intermediation, and related services",2012,398
+52,"Federal Reserve banks, credit intermediation, and related services",2013,365
+52,"Federal Reserve banks, credit intermediation, and related services",2014,350
+59,"Professional and business services",2005,2017
+59,"Professional and business services",2006,2033
+59,"Professional and business services",2007,2046
+59,"Professional and business services",2008,2218
+59,"Professional and business services",2009,2136
+59,"Professional and business services",2010,2201
+59,"Professional and business services",2011,2333
+59,"Professional and business services",2012,2438
+59,"Professional and business services",2013,2492
+59,"Professional and business services",2014,2538
+59,"Professional and business services",2015,2601
+16,"Primary metals manufacturing",2005,24
+16,"Primary metals manufacturing",2006,18
+16,"Primary metals manufacturing",2007,14
+16,"Primary metals manufacturing",2008,13
+16,"Primary metals manufacturing",2009,13
+16,"Primary metals manufacturing",2010,12
+16,"Primary metals manufacturing",2011,15
+16,"Primary metals manufacturing",2012,17
+16,"Primary metals manufacturing",2013,16
+16,"Primary metals manufacturing",2014,17
+78,"Accommodation and food services",2005,1249
+78,"Accommodation and food services",2006,1225
+78,"Accommodation and food services",2007,1201
+78,"Accommodation and food services",2008,1155
+78,"Accommodation and food services",2009,1086
+78,"Accommodation and food services",2010,1138
+78,"Accommodation and food services",2011,1192
+78,"Accommodation and food services",2012,1221
+78,"Accommodation and food services",2013,1278
+78,"Accommodation and food services",2014,1295
+78,"Accommodation and food services",2015,1329
+63,"Miscellaneous professional, scientific, and technical services",2005,912
+63,"Miscellaneous professional, scientific, and technical services",2006,905
+63,"Miscellaneous professional, scientific, and technical services",2007,896
+63,"Miscellaneous professional, scientific, and technical services",2008,977
+63,"Miscellaneous professional, scientific, and technical services",2009,894
+63,"Miscellaneous professional, scientific, and technical services",2010,933
+63,"Miscellaneous professional, scientific, and technical services",2011,941
+63,"Miscellaneous professional, scientific, and technical services",2012,956
+63,"Miscellaneous professional, scientific, and technical services",2013,950
+63,"Miscellaneous professional, scientific, and technical services",2014,926
+40,"Truck transportation",2005,240
+40,"Truck transportation",2006,242
+40,"Truck transportation",2007,232
+40,"Truck transportation",2008,223
+40,"Truck transportation",2009,207
+40,"Truck transportation",2010,226
+40,"Truck transportation",2011,229
+40,"Truck transportation",2012,222
+40,"Truck transportation",2013,207
+40,"Truck transportation",2014,200
+33,"Plastics and rubber products manufacturing",2005,70
+33,"Plastics and rubber products manufacturing",2006,92
+33,"Plastics and rubber products manufacturing",2007,93
+33,"Plastics and rubber products manufacturing",2008,85
+33,"Plastics and rubber products manufacturing",2009,78
+33,"Plastics and rubber products manufacturing",2010,86
+33,"Plastics and rubber products manufacturing",2011,93
+33,"Plastics and rubber products manufacturing",2012,92
+33,"Plastics and rubber products manufacturing",2013,92
+33,"Plastics and rubber products manufacturing",2014,97
+5,"Forestry, fishing, and related activities",2005,76
+5,"Forestry, fishing, and related activities",2006,83
+5,"Forestry, fishing, and related activities",2007,70
+5,"Forestry, fishing, and related activities",2008,68
+5,"Forestry, fishing, and related activities",2009,67
+5,"Forestry, fishing, and related activities",2010,73
+5,"Forestry, fishing, and related activities",2011,69
+5,"Forestry, fishing, and related activities",2012,70
+5,"Forestry, fishing, and related activities",2013,67
+5,"Forestry, fishing, and related activities",2014,72
+66,"Administrative and support services",2005,368
+66,"Administrative and support services",2006,369
+66,"Administrative and support services",2007,391
+66,"Administrative and support services",2008,434
+66,"Administrative and support services",2009,434
+66,"Administrative and support services",2010,437
+66,"Administrative and support services",2011,494
+66,"Administrative and support services",2012,548
+66,"Administrative and support services",2013,584
+66,"Administrative and support services",2014,619
+9,"Support activities for mining",2011,2
+9,"Support activities for mining",2012,2
+9,"Support activities for mining",2013,2
+9,"Support activities for mining",2014,1
+12,"Manufacturing",2005,2860
+12,"Manufacturing",2006,3189
+12,"Manufacturing",2007,2964
+12,"Manufacturing",2008,3085
+12,"Manufacturing",2009,2643
+12,"Manufacturing",2010,3110
+12,"Manufacturing",2011,3206
+12,"Manufacturing",2012,3084
+12,"Manufacturing",2013,2686
+12,"Manufacturing",2014,2625
+12,"Manufacturing",2015,2554
+80,"Food services and drinking places",2005,581
+80,"Food services and drinking places",2006,574
+80,"Food services and drinking places",2007,551
+80,"Food services and drinking places",2008,526
+80,"Food services and drinking places",2009,493
+80,"Food services and drinking places",2010,506
+80,"Food services and drinking places",2011,530
+80,"Food services and drinking places",2012,543
+80,"Food services and drinking places",2013,550
+80,"Food services and drinking places",2014,570
+8,"Mining, except oil and gas",2005,196
+8,"Mining, except oil and gas",2006,200
+8,"Mining, except oil and gas",2007,181
+8,"Mining, except oil and gas",2008,169
+8,"Mining, except oil and gas",2009,226
+8,"Mining, except oil and gas",2010,215
+8,"Mining, except oil and gas",2011,195
+8,"Mining, except oil and gas",2012,185
+8,"Mining, except oil and gas",2013,203
+8,"Mining, except oil and gas",2014,228
+7,"Oil and gas extraction",2005,0
+7,"Oil and gas extraction",2006,0
+7,"Oil and gas extraction",2007,0
+7,"Oil and gas extraction",2008,0
+7,"Oil and gas extraction",2009,0
+7,"Oil and gas extraction",2010,0
+7,"Oil and gas extraction",2011,0
+7,"Oil and gas extraction",2012,0
+7,"Oil and gas extraction",2013,0
+7,"Oil and gas extraction",2014,0
+62,"Computer systems design and related services",2005,301
+62,"Computer systems design and related services",2006,360
+62,"Computer systems design and related services",2007,344
+62,"Computer systems design and related services",2008,330
+62,"Computer systems design and related services",2009,354
+62,"Computer systems design and related services",2010,348
+62,"Computer systems design and related services",2011,393
+62,"Computer systems design and related services",2012,398
+62,"Computer systems design and related services",2013,419
+62,"Computer systems design and related services",2014,441
+6,"Mining",2005,196
+6,"Mining",2006,200
+6,"Mining",2007,181
+6,"Mining",2008,169
+6,"Mining",2009,226
+6,"Mining",2010,215
+6,"Mining",2011,197
+6,"Mining",2012,186
+6,"Mining",2013,204
+6,"Mining",2014,229
+6,"Mining",2015,178
