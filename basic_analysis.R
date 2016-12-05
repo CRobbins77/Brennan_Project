@@ -2,12 +2,12 @@
 library(ggplot2)
 
 # Read GPD by Industry tables
-GDPbyInd_US <- read.csv("data/RealGrossOutputbyIndustry_US.csv")
-GDPbyInd_VT <- read.csv("data/RealGrossOutputbyIndustry_VT.csv")
+GDPbyInd_US <- read.csv("RealGrossOutputbyIndustry_US.csv")
+GDPbyInd_VT <- read.csv("RealGrossOutputbyIndustry_VT.csv")
 
 # The Industry codes used in the state dataset do not match those used by the national dataset
 # This forces state codes to national codes using fuzzy matching 
-NIACS <- read.csv("data/NIACS.csv")
+NIACS <- read.csv("NIACS.csv")
 for (State_IND in levels(GDPbyInd_VT$Industry.Description)) {
   best <- which.min(adist(State_IND, NIACS$Industry.Description))
   if (length(best) != 1){
